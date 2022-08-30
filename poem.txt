@@ -8,5 +8,8 @@ It is vast
 It is wild
 It has the sun
 
+It is bright
+It is dark
+
 It has stars at night
 Sun during days
